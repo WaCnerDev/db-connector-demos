@@ -30,4 +30,5 @@
         <maven.compiler.target>11</maven.compiler.target>
         <exec.mainClass>com.wacnerdev.pruebavariablesentornodb.PruebaVariablesEntornoDB</exec.mainClass>
     </properties>
+    <name>MySQL-JDBC-V1.0</name>
 </project>
